@@ -1,0 +1,33 @@
+MongoDB
+MongoDB is a NoSQL database management system.
+It stores data in flexible, JSON-like documents.
+Ideal for applications with rapidly changing data models.
+
+2: Functionalities of MongoDB
+1. It supports ad-hoc queries.
+2. It offers indexing for faster queries.
+3. it is horizontal scalability through sharding.
+4. it has a replication for high availability and fault tolerance.
+
+
+SQL (Relational Databases)
+SQL databases store data in tables with predefined schemas.
+Suitable for applications with complex queries and transactions.
+
+Functionalities of SQL
+1. ACID compliance ensures data integrity.
+2. Supports complex queries using SQL language.
+3. Joins allow data from multiple tables to be combined.
+4. Transactions ensure data consistency.
+
+Here are the comparison between MongoDB and SQL
+
+Data Model: MongoDB uses a flexible, schema-less document model, while SQL databases have a rigid, predefined schema.
+
+Scalability: MongoDB offers horizontal scalability through sharding, whereas scaling SQL databases can be more complex.
+
+Query Language: MongoDB uses a rich query language but lacks the complexity of SQL for advanced querying.
+
+Transactions: SQL databases support ACID transactions, ensuring data consistency, which MongoDB lacks in its earlier versions.
+
+Use Cases:MongoDB is suitable for applications requiring flexibility and scalability, while SQL is preferred for complex queries and transactions.
